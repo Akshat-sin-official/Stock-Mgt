@@ -1,0 +1,53 @@
+# ninja log v7
+74	457	8170796204447797	StockPilot_autogen/timestamp	f35815d83b648c9d
+74	457	8170796204447797	StockPilot_autogen/mocs_compilation.cpp	f35815d83b648c9d
+74	457	8170796204447797	D:/Project files/Personal/inventory mgt/build/StockPilot_autogen/timestamp	f35815d83b648c9d
+74	457	8170796204447797	D:/Project files/Personal/inventory mgt/build/StockPilot_autogen/mocs_compilation.cpp	f35815d83b648c9d
+3964	4145	8170795942055928	StockPilot_autogen/3YJK5W5UP7/qrc_resources.cpp	22c5f932115cf011
+3964	4145	8170795942055928	D:/Project files/Personal/inventory mgt/build/StockPilot_autogen/3YJK5W5UP7/qrc_resources.cpp	22c5f932115cf011
+4225	9374	8170795943105885	CMakeFiles/StockPilot.dir/src/services/ProductService.cpp.obj	7ef4ba49d4ef8e25
+4246	9735	8170795943312085	CMakeFiles/StockPilot.dir/src/services/StockService.cpp.obj	1f9cbf8e44dd65dc
+4178	9753	8170795942575061	CMakeFiles/StockPilot.dir/src/repositories/CategoryRepository.cpp.obj	d9081ee45b7b5f5d
+4189	9777	8170795942733173	CMakeFiles/StockPilot.dir/src/repositories/SupplierRepository.cpp.obj	d14e5921ebdb157
+4236	9882	8170795943215858	CMakeFiles/StockPilot.dir/src/services/SupplierService.cpp.obj	66403dd2701590cf
+4211	10159	8170795942969989	CMakeFiles/StockPilot.dir/src/repositories/TransactionRepository.cpp.obj	12fe5da7b90e4808
+4201	10256	8170795942816483	CMakeFiles/StockPilot.dir/src/repositories/ProductRepository.cpp.obj	e6b0f4efeacb4f3b
+9754	10346	8170795998379839	CMakeFiles/StockPilot.dir/StockPilot_autogen/3YJK5W5UP7/qrc_resources.cpp.obj	7dd1a394e6efcade
+4332	10548	8170795944149587	CMakeFiles/StockPilot.dir/src/ui/SupplierDialog.cpp.obj	33163f93663b385b
+4307	10691	8170795943921772	CMakeFiles/StockPilot.dir/src/ui/ProductDialog.cpp.obj	49791ab5b8bfb7a9
+4167	11273	8170795942519569	CMakeFiles/StockPilot.dir/src/database/DatabaseManager.cpp.obj	bdf316dbbe43fa85
+4146	11333	8170795942312336	CMakeFiles/StockPilot.dir/StockPilot_autogen/mocs_compilation.cpp.obj	7ea6820ca05c5807
+4261	11349	8170795943444489	CMakeFiles/StockPilot.dir/src/services/ReportService.cpp.obj	492599b9bb2c4bab
+4282	11636	8170795943643300	CMakeFiles/StockPilot.dir/src/ui/DashboardWidget.cpp.obj	7784cb881f4a304a
+4318	11714	8170795944041262	CMakeFiles/StockPilot.dir/src/ui/SuppliersWidget.cpp.obj	b5baf06844594781
+4294	11913	8170795943794302	CMakeFiles/StockPilot.dir/src/ui/ProductsWidget.cpp.obj	4c50847708e072bc
+4271	12881	8170795943564744	CMakeFiles/StockPilot.dir/src/ui/MainWindow.cpp.obj	83ac9774f5e03cdf
+4157	12902	8170795942427836	CMakeFiles/StockPilot.dir/src/main.cpp.obj	ab2004e5a3d1d42
+9374	15144	8170795994598566	CMakeFiles/StockPilot.dir/src/ui/CategoriesWidget.cpp.obj	99282a6cc5a6092a
+9735	16274	8170795998210702	CMakeFiles/StockPilot.dir/src/ui/ReportsWidget.cpp.obj	ebe5799a254c2ddf
+458	5688	8170796208311448	CMakeFiles/StockPilot.dir/src/ui/StockWidget.cpp.obj	bbdbab1e8355ae32
+5689	6070	8170796260613869	StockPilot.exe	44896a6a4455cfc3
+48	958	8170796728480715	build.ninja	c59ad95d8a9eeced
+48	958	8170796728480715	D:/Project files/Personal/inventory mgt/build/cmake_install.cmake	c59ad95d8a9eeced
+56	326	8170796731465699	TestBackend_autogen/timestamp	d1625653fbed4680
+56	326	8170796731465699	TestBackend_autogen/mocs_compilation.cpp	d1625653fbed4680
+56	326	8170796731465699	D:/Project files/Personal/inventory mgt/build/TestBackend_autogen/timestamp	d1625653fbed4680
+56	326	8170796731465699	D:/Project files/Personal/inventory mgt/build/TestBackend_autogen/mocs_compilation.cpp	d1625653fbed4680
+328	1012	8170796732472652	CMakeFiles/TestBackend.dir/TestBackend_autogen/mocs_compilation.cpp.obj	4607d879cdc865e7
+399	2803	8170796733186704	CMakeFiles/TestBackend.dir/src/services/ProductService.cpp.obj	38ce1e7352c11589
+359	3881	8170796732781203	CMakeFiles/TestBackend.dir/src/repositories/CategoryRepository.cpp.obj	92c19c68a96117a6
+411	3903	8170796733300371	CMakeFiles/TestBackend.dir/src/services/SupplierService.cpp.obj	14f9ab20beadc133
+369	3938	8170796732864262	CMakeFiles/TestBackend.dir/src/repositories/SupplierRepository.cpp.obj	743bcc3cb5ec3a1f
+422	3956	8170796733415365	CMakeFiles/TestBackend.dir/src/services/StockService.cpp.obj	acf00426e98970ca
+388	4221	8170796733066428	CMakeFiles/TestBackend.dir/src/repositories/TransactionRepository.cpp.obj	71d9b8210d57380c
+379	4244	8170796732975272	CMakeFiles/TestBackend.dir/src/repositories/ProductRepository.cpp.obj	6061a3038d0ac297
+348	4933	8170796732677689	CMakeFiles/TestBackend.dir/src/database/DatabaseManager.cpp.obj	dae577e99e3f00a5
+433	5006	8170796733516984	CMakeFiles/TestBackend.dir/src/services/ReportService.cpp.obj	d8250726a9155e7
+338	5151	8170796732575003	CMakeFiles/TestBackend.dir/tests/test_backend.cpp.obj	2b38fc6657110719
+5151	5416	8170796780710256	TestBackend.exe	18717a8a010b468a
+24	341	8170797333893218	TestBackend_autogen/timestamp	d1625653fbed4680
+24	341	8170797333893218	TestBackend_autogen/mocs_compilation.cpp	d1625653fbed4680
+24	341	8170797333893218	D:/Project files/Personal/inventory mgt/build/TestBackend_autogen/timestamp	d1625653fbed4680
+24	341	8170797333893218	D:/Project files/Personal/inventory mgt/build/TestBackend_autogen/mocs_compilation.cpp	d1625653fbed4680
+342	4766	8170797337117686	CMakeFiles/TestBackend.dir/tests/test_backend.cpp.obj	2b38fc6657110719
+4766	5033	8170797381361449	TestBackend.exe	18717a8a010b468a

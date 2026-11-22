@@ -1,0 +1,8 @@
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/StockPilot.dir
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/TestBackend.dir
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/edit_cache.dir
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/rebuild_cache.dir
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/StockPilot_autogen_timestamp_deps.dir
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/StockPilot_autogen.dir
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/TestBackend_autogen_timestamp_deps.dir
+D:/Project files/Personal/inventory mgt/build/CMakeFiles/TestBackend_autogen.dir
